@@ -1,4 +1,5 @@
-# WhereWulff Data
+
+# WhereWulff Data [![DOI](https://zenodo.org/badge/596660833.svg)](https://zenodo.org/badge/latestdoi/596660833)
 This repository houses electronic structure data and metadata generated as part of the case study in "WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions" 
 
 # Data organization
